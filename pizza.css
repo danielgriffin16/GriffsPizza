@@ -1,5 +1,4 @@
- 
- .griffin {
+.griffin {
    background-color: black;
    font-size: 40px;
    font-style: italic;
@@ -478,8 +477,8 @@
   padding: 5px;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 300px) {
     body {
-        background-color: lightblue;
+        width: 300px;   
     }
 }
